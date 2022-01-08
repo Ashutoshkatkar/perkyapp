@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/perkyapp/static/css/main.e70a5eee.chunk.css",
+    "main.js": "/perkyapp/static/js/main.5ecf8e1c.chunk.js",
+    "main.js.map": "/perkyapp/static/js/main.5ecf8e1c.chunk.js.map",
+    "runtime-main.js": "/perkyapp/static/js/runtime-main.2f539749.js",
+    "runtime-main.js.map": "/perkyapp/static/js/runtime-main.2f539749.js.map",
+    "static/js/2.b98a7f63.chunk.js": "/perkyapp/static/js/2.b98a7f63.chunk.js",
+    "static/js/2.b98a7f63.chunk.js.map": "/perkyapp/static/js/2.b98a7f63.chunk.js.map",
+    "index.html": "/perkyapp/index.html",
+    "static/css/main.e70a5eee.chunk.css.map": "/perkyapp/static/css/main.e70a5eee.chunk.css.map",
+    "static/js/2.b98a7f63.chunk.js.LICENSE.txt": "/perkyapp/static/js/2.b98a7f63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f539749.js",
+    "static/js/2.b98a7f63.chunk.js",
+    "static/css/main.e70a5eee.chunk.css",
+    "static/js/main.5ecf8e1c.chunk.js"
+  ]
+}
