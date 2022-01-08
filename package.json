@@ -1,5 +1,5 @@
 {
-  "name": "broken-react-todo-application-context-api",
+  "name": "buggy-react-todo-application-challenge",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -64,9 +64,9 @@
     "eslint-webpack-plugin": "^2.5.2"
   },
   "scripts": {
-    "start": "node scripts/start.js",
-    "build": "node scripts/build.js",
-    "test": "node scripts/test.js"
+    "start": "react-scripts/start.js",
+    "build": "react-scripts/build.js",
+    "test": "tract-scripts/test.js"
   },
   "eslintConfig": {
     "extends": [
