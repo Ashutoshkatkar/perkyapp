@@ -66,7 +66,7 @@
   "scripts": {
     "start": "react-scripts/start.js",
     "build": "react-scripts/build.js",
-    "test": "tract-scripts/test.js"
+    "test": "react-scripts/test.js"
   },
   "eslintConfig": {
     "extends": [
